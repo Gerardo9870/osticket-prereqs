@@ -9,43 +9,26 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
-- Internet Information Services (IIS)
+- **Microsoft Azure (Virtual Machines/Compute)**: Hosting environment for osTicket installation.
+- **Remote Desktop**: Accessing the virtual machine remotely to configure osTicket.
+- **Internet Information Services (IIS)**: Used as the web server for running osTicket on Windows.
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10</b> (21H2)
+- **Windows 10 (21H2)**: The operating system used for this tutorial. Other versions of Windows may work, but compatibility is not guaranteed.
+
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- IIS
+- PHP manager
+- rewriteamd module
+-  VC_redist.x86.exe
+-  MySQL 5.5.62
+-  HeidiSQL
+
 
 <h2>Installation Steps</h2>
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-text will go here
-<br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-text will go here
-</p>
-<br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-text will go here
-</p>
-<br />
